@@ -1,0 +1,3 @@
+#Especificamos archivos y rutas que no vayan al repositorio
+.env
+#También podemos poner carpetas y rutas
